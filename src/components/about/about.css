@@ -1,0 +1,23 @@
+.a-wrapper{
+height: 100vh;
+display: flex;
+}
+.a-left{
+    flex: 1;
+    display: flex;
+}
+.a-right{
+    flex: 1;
+   
+}
+.a-image{
+width: 600px;
+}
+.a-heading{
+margin-bottom: 30px;
+
+}
+.a-right-wrapper{
+text-align: center;
+padding-top: 170px ;
+}
